@@ -1,0 +1,2 @@
+# polkabot
+learn polkadot
